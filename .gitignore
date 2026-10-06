@@ -1,0 +1,34 @@
+# Build directory
+build/
+
+# Executables
+patient_monitor
+patient_monitor_sanitize
+test_alarm
+test_ring_buffer
+test_vital
+test_alarm_sanitize
+test_ring_buffer_sanitize
+test_vital_sanitize
+
+# Object files
+*.o
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+CTestTestfile.cmake
+Testing/
+
+# Logs
+logs/*.log
+
+# Editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
