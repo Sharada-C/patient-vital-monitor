@@ -1,0 +1,55 @@
+[Sensor] Reading added
+[Sensor] Reading added
+[Sensor] Reading added
+Patient vital-sign monitor started.
+Press Ctrl+C to stop monitoring.
+[Processor] HR=61 SpO2=98 Temp=36.7 | Alarm=NORMAL
+[Processor] HR=70 SpO2=89 Temp=36.7 | Alarm=CRITICAL
+[Processor] HR=70 SpO2=98 Temp=36.1 | Alarm=NORMAL
+[Sensor] Reading added
+[Sensor] Reading added
+[Sensor] Reading added
+[Processor] HR=114 SpO2=98 Temp=36.7 | Alarm=NORMAL
+[Processor] HR=70 SpO2=89 Temp=36.7 | Alarm=CRITICAL
+[Processor] HR=70 SpO2=98 Temp=38.5 | Alarm=NORMAL
+[Sensor] Reading added
+[Sensor] Reading added
+[Sensor] Reading added
+[Processor] HR=128 SpO2=98 Temp=36.7 | Alarm=HIGH
+[Processor] HR=70 SpO2=94 Temp=36.7 | Alarm=NORMAL
+[Processor] HR=70 SpO2=98 Temp=39.0 | Alarm=NORMAL
+[Sensor] Reading added
+[Sensor] Reading added
+[Sensor] Reading added
+[Processor] HR=117 SpO2=98 Temp=36.7 | Alarm=NORMAL
+[Processor] HR=70 SpO2=96 Temp=36.7 | Alarm=NORMAL
+[Processor] HR=70 SpO2=98 Temp=38.9 | Alarm=NORMAL
+[Sensor] Reading added
+[Sensor] Reading added
+[Sensor] Reading added
+[Processor] HR=125 SpO2=98 Temp=36.7 | Alarm=HIGH
+[Processor] HR=70 SpO2=98 Temp=38.4 | Alarm=NORMAL
+[Processor] HR=70 SpO2=95 Temp=36.7 | Alarm=NORMAL
+[Sensor] Reading added
+[Sensor] Reading added
+[Sensor] Reading added
+[Processor] HR=81 SpO2=98 Temp=36.7 | Alarm=NORMAL
+[Processor] HR=70 SpO2=98 Temp=38.0 | Alarm=NORMAL
+[Processor] HR=70 SpO2=97 Temp=36.7 | Alarm=NORMAL
+[Sensor] Reading added
+[Sensor] Reading added
+[Sensor] Reading added
+[Processor] HR=65 SpO2=98 Temp=36.7 | Alarm=NORMAL
+[Processor] HR=70 SpO2=85 Temp=36.7 | Alarm=CRITICAL
+[Processor] HR=70 SpO2=98 Temp=39.1 | Alarm=HIGH
+[Sensor] Reading added
+[Sensor] Reading added
+[Sensor] Reading added
+[Processor] HR=70 SpO2=98 Temp=38.9 | Alarm=NORMAL
+[Processor] HR=70 SpO2=92 Temp=36.7 | Alarm=NORMAL
+[Processor] HR=73 SpO2=98 Temp=36.7 | Alarm=NORMAL
+[Sensor] Reading added
+[Sensor] Reading added
+[Sensor] Reading added
+[Processor] HR=70 SpO2=93 Temp=36.7 | Alarm=NORMAL
+Monitor shutdown complete.

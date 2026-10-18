@@ -1,0 +1,55 @@
+Patient vital-sign monitor started.
+Press Ctrl+C to stop monitoring.
+[Sensor] Reading added
+[Sensor] Reading added
+[Sensor] Reading added
+[Processor] HR=88 SpO2=98 Temp=36.7 | Alarm=NORMAL
+[Processor] HR=70 SpO2=98 Temp=39.6 | Alarm=HIGH
+[Processor] HR=70 SpO2=87 Temp=36.7 | Alarm=CRITICAL
+[Sensor] Reading added
+[Sensor] Reading added
+[Sensor] Reading added
+[Processor] HR=111 SpO2=98 Temp=36.7 | Alarm=NORMAL
+[Processor] HR=70 SpO2=98 Temp=36.2 | Alarm=NORMAL
+[Processor] HR=70 SpO2=96 Temp=36.7 | Alarm=NORMAL
+[Sensor] Reading added
+[Sensor] Reading added
+[Sensor] Reading added
+[Processor] HR=70 SpO2=98 Temp=36.2 | Alarm=NORMAL
+[Processor] HR=123 SpO2=98 Temp=36.7 | Alarm=HIGH
+[Processor] HR=70 SpO2=87 Temp=36.7 | Alarm=CRITICAL
+[Sensor] Reading added
+[Sensor] Reading added
+[Sensor] Reading added
+[Processor] HR=70 SpO2=98 Temp=36.9 | Alarm=NORMAL
+[Processor] HR=130 SpO2=98 Temp=36.7 | Alarm=HIGH
+[Processor] HR=70 SpO2=98 Temp=36.7 | Alarm=NORMAL
+[Sensor] Reading added
+[Sensor] Reading added
+[Sensor] Reading added
+[Processor] HR=70 SpO2=98 Temp=38.3 | Alarm=NORMAL
+[Processor] HR=126 SpO2=98 Temp=36.7 | Alarm=HIGH
+[Processor] HR=70 SpO2=96 Temp=36.7 | Alarm=NORMAL
+[Sensor] Reading added
+[Sensor] Reading added
+[Sensor] Reading added
+[Processor] HR=70 SpO2=98 Temp=37.9 | Alarm=NORMAL
+[Processor] HR=92 SpO2=98 Temp=36.7 | Alarm=NORMAL
+[Processor] HR=70 SpO2=93 Temp=36.7 | Alarm=NORMAL
+[Sensor] Reading added
+[Sensor] Reading added
+[Sensor] Reading added
+[Processor] HR=123 SpO2=98 Temp=36.7 | Alarm=HIGH
+[Processor] HR=70 SpO2=98 Temp=36.5 | Alarm=NORMAL
+[Processor] HR=70 SpO2=97 Temp=36.7 | Alarm=NORMAL
+[Sensor] Reading added
+[Sensor] Reading added
+[Sensor] Reading added
+[Processor] HR=139 SpO2=98 Temp=36.7 | Alarm=HIGH
+[Processor] HR=70 SpO2=98 Temp=37.4 | Alarm=NORMAL
+[Processor] HR=70 SpO2=85 Temp=36.7 | Alarm=CRITICAL
+[Sensor] Reading added
+[Sensor] Reading added
+[Sensor] Reading added
+[Processor] HR=117 SpO2=98 Temp=36.7 | Alarm=NORMAL
+Monitor shutdown complete.

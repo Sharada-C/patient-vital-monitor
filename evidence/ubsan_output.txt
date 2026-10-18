@@ -1,0 +1,51 @@
+[Sensor] Reading added
+Patient vital-sign monitor started.
+Press Ctrl+C to stop monitoring.
+[Sensor] Reading added
+[Sensor] Reading added
+[Processor] HR=99 SpO2=98 Temp=36.7 | Alarm=NORMAL
+[Processor] HR=70 SpO2=92 Temp=36.7 | Alarm=NORMAL
+[Processor] HR=70 SpO2=98 Temp=39.3 | Alarm=HIGH
+[Sensor] Reading added
+[Sensor] Reading added
+[Sensor] Reading added
+[Processor] HR=115 SpO2=98 Temp=36.7 | Alarm=NORMAL
+[Processor] HR=70 SpO2=100 Temp=36.7 | Alarm=NORMAL
+[Processor] HR=70 SpO2=98 Temp=37.9 | Alarm=NORMAL
+[Sensor] Reading added
+[Sensor] Reading added
+[Sensor] Reading added
+[Processor] HR=66 SpO2=98 Temp=36.7 | Alarm=NORMAL
+[Processor] HR=70 SpO2=93 Temp=36.7 | Alarm=NORMAL
+[Processor] HR=70 SpO2=98 Temp=39.9 | Alarm=HIGH
+[Sensor] Reading added
+[Processor] HR=70 SpO2=93 Temp=36.7 | Alarm=NORMAL
+[Sensor] Reading added
+[Sensor] Reading added
+[Processor] HR=70 SpO2=98 Temp=39.4 | Alarm=HIGH
+[Processor] HR=116 SpO2=98 Temp=36.7 | Alarm=NORMAL
+[Sensor] Reading added
+[Sensor] Reading added
+[Sensor] Reading added
+[Processor] HR=70 SpO2=86 Temp=36.7 | Alarm=CRITICAL
+[Processor] HR=70 SpO2=98 Temp=36.5 | Alarm=NORMAL
+[Processor] HR=88 SpO2=98 Temp=36.7 | Alarm=NORMAL
+[Sensor] Reading added
+[Sensor] Reading added
+[Sensor] Reading added
+[Processor] HR=70 SpO2=98 Temp=38.2 | Alarm=NORMAL
+[Processor] HR=139 SpO2=98 Temp=36.7 | Alarm=HIGH
+[Processor] HR=70 SpO2=100 Temp=36.7 | Alarm=NORMAL
+[Sensor] Reading added
+[Sensor] Reading added
+[Sensor] Reading added
+[Processor] HR=70 SpO2=98 Temp=36.7 | Alarm=NORMAL
+[Processor] HR=70 SpO2=98 Temp=37.7 | Alarm=NORMAL
+[Processor] HR=99 SpO2=98 Temp=36.7 | Alarm=NORMAL
+[Sensor] Reading added
+[Sensor] Reading added
+[Sensor] Reading added
+[Processor] HR=70 SpO2=98 Temp=38.4 | Alarm=NORMAL
+[Processor] HR=70 SpO2=95 Temp=36.7 | Alarm=NORMAL
+[Processor] HR=102 SpO2=98 Temp=36.7 | Alarm=NORMAL
+Monitor shutdown complete.
